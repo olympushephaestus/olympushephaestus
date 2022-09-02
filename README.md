@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EL Maverick,
 - 👀 I’m interested in photography,
 - 🌱 I’m currently learning coding,
-- 💞️ I’m like orgchemistry & coding,
+- 💞️ I like orgchemistry & coding,
 - 📫 I’m an ex-alphite
 
 <!---
